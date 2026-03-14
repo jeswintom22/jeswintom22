@@ -84,11 +84,10 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
 ## ░ learning path
 
 ```
-2022 ──── hello world. seriously, just hello world.
-2023 ──── C, Java, Python — the holy trinity of confusion
-2024 ──── HTML, Node, databases, git (finally)
-2025 ──── FastAPI, ML pipelines, computer vision, NLP
-now  ──── [ connecting the dots · shipping things ]
+early 2025 ──── hello world. C, Java, Python — the usual suspects
+mid   2025 ──── HTML, Node, databases, git (finally clicked)
+late  2025 ──── FastAPI, ML pipelines, computer vision, NLP
+now        ──── [ connecting the dots · shipping things ]
 ```
 
 ---
