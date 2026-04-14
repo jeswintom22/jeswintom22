@@ -94,7 +94,7 @@ now        ──── [ connecting the dots · shipping things ]
 
 ## ░ github stats
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=jeswintom22&theme=midnight-purple&short_numbers=true)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=9ca3af&include_all_commits=true&count_private=true)
 
 
 
