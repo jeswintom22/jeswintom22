@@ -94,10 +94,12 @@ now        ──── [ connecting the dots · shipping things ]
 
 ## ░ github stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=9ca3af&include_all_commits=true&count_private=true)
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=9ca3af&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeswintom22&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=9ca3af&langs_count=6&cache_seconds=1800" />
+</p>
 
-
-
+<img src="https://streak-stats.demolab.com/?user=jeswintom22&theme=transparent&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=9ca3af&dates=6b7280" />
 
 ---
 
