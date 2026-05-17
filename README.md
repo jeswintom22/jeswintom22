@@ -145,14 +145,6 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
 
 <div align="center">
 
-<a href="https://github.com/jeswintom22">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=midnight-purple&cache_seconds=0&include_all_commits=true&count_private=true" />
-</a>
-
-<a href="https://github.com/jeswintom22">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeswintom22&layout=compact&theme=midnight-purple&cache_seconds=0&langs_count=8" />
-</a>
-
 <br><br>
 
 <a href="https://git.io/streak-stats">
