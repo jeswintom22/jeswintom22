@@ -18,8 +18,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=jeswintom22&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/jeswintom22?style=for-the-badge&color=7c3aed&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
-  &nbsp;
+  
   <img src="https://img.shields.io/badge/OPEN%20TO-OPPORTUNITIES-4ade80?style=for-the-badge&labelColor=1a1a2e" alt="Open to Work"/>
 </p>
 
