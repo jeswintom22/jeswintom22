@@ -172,6 +172,12 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
 
 ## `ACTIVITY GRAPH` &nbsp;
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=c084fc" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeswintom22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" />
+
+<br/><br/>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeswintom22&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f472b6&area=true&area_color=7c3aed&hide_border=true" />
 </div>
