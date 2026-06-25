@@ -169,7 +169,6 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/jeswintom22/jeswintom22/output/pacman-contribution-graph.svg">
 </picture>
 
-<sub>_generated with [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)_</sub>
 
 </div>
 
