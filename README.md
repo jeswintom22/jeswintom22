@@ -140,24 +140,7 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
 
 ---
 
-## `GITHUB STATS` &nbsp;
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeswintom22&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&icon_color=a855f7&text_color=e2e8f0&ring_color=c084fc" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeswintom22&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=c084fc&text_color=e2e8f0" />
-
-<br/><br/>
-
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=jeswintom22&theme=midnight-purple" />
-</a>
-
-</div>
-
----
 
 ## `CONTRIBUTION ACTIVITY` &nbsp;
 
@@ -183,16 +166,6 @@ A career tool that parses PDF resumes, extracts skills using keyword matching + 
 
 ---
 
-## `LEARNING PATH` &nbsp;
-
-```
-early 2025 ──── hello world. C, Java, Python — the usual suspects
-mid   2025 ──── HTML, Node, databases, git (finally clicked)
-late  2025 ──── FastAPI, ML pipelines, computer vision, NLP
-now        ──── [ connecting the dots · shipping things ]
-```
-
----
 
 
 ## `CONNECT` &nbsp;
